@@ -30,8 +30,7 @@ A manager needs a **good player within a budget**.
   - Takes **player position** and **annual budget cap** as inputs.
   - Returns **names, potential, and value** of players who fit.
   - Sorts them by **overall rating**.
-- 🔹 **Bonus**:  
-  - Use **Streamlit** to display the first **25 players**.
+
 
 ---
 
