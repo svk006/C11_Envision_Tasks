@@ -1,3 +1,14 @@
+### **Short note on CSV vs Parquet**
+
+**CSV**  
+- It is in text format and is human readable.  
+- Due to its text format, it has a larger file size and slower performance.  
+- It is best used in small-scale data processing.
+
+**Parquet**  
+- It is in binary format and hence not human readable.  
+- It has a smaller file size along with faster and more efficient performance.  
+- It is best used in large-scale data processing.
 
 ---
 
